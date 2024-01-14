@@ -1,0 +1,19 @@
+.para{
+    background-color: hsl(0, 42%, 59%);
+}
+
+.cooler{
+    font-size: 43px;
+}
+
+#test{
+    color: aqua;
+    font-size: 43px;
+
+}
+
+#t2{
+    background-color: rgb(73, 230, 156);
+    font-size: 35px;
+    font-weight: bold;
+}
